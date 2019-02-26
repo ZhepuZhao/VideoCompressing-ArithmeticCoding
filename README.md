@@ -21,4 +21,6 @@ The following table shows the details for each compression schema
 |`Average-Neighbor Context Adaptive AC Encode`|894,196|6366|11785|
 |(1)`Prior Average-Neighbor Context Adaptive AC Encode`|907,096|6015|11737|
 |(2)`Prior Average-Neighbor Context Adaptive AC Encode`|842,856|5755|11581|
+|`Multiple Prior Value Context Adaptive AC Encode`|748,376|5333|10553|
 |`Prior Value Context Adaptive AC Encode`|670,092|5150|10477|
+
