@@ -13,7 +13,7 @@ The `data` package contains input and output files.
 ##
 The following table shows the details for each compression schema
 
-| Schema Name  | Compressed File Size(bits) | Encode Time(ms) | Decode Time(ms)|
+| Schema Name  | Compressed File Size(bytes) | Encode Time(ms) | Decode Time(ms)|
 | -------------| -------------------------- | --------------- | -------------- | 
 |`Static AC Encode (Text Model)`| 1,064,024 | 8242 | 11798 |
 |`Adaptive AC Encode (Text Model)`|1,063,224|7095|11067|
